@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="336" viewBox="0 0 900 336">
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto">
+<path d="M0,0 L0,6 L8,3 z" fill="#8b949e"/></marker></defs>
+<rect width="900" height="336" fill="#0d1117"/>
+<g font-family="SF Mono,Menlo,monospace">
+<text x="450" y="34" fill="#e6edf3" font-size="16" text-anchor="middle" font-weight="bold">Gates</text>
+<text x="450" y="56" fill="#8b949e" font-size="11" text-anchor="middle">measured&#160;on&#160;this&#160;commit,&#160;not&#160;asserted</text>
+<text x="40" y="92" fill="#8b949e" font-size="12" text-anchor="start">swift&#160;build</text>
+<text x="330" y="92" fill="#3fb950" font-size="12" text-anchor="start">0&#160;warnings,&#160;0&#160;errors</text>
+<text x="40" y="122" fill="#8b949e" font-size="12" text-anchor="start">swift&#160;test</text>
+<text x="330" y="122" fill="#3fb950" font-size="12" text-anchor="start">43&#160;tests&#160;in&#160;10&#160;suites,&#160;0&#160;failures</text>
+<text x="40" y="152" fill="#8b949e" font-size="12" text-anchor="start">llvm-cov&#160;regions</text>
+<text x="330" y="152" fill="#3fb950" font-size="12" text-anchor="start">100.00%&#160;&#160;(194&#160;/&#160;194)</text>
+<text x="40" y="182" fill="#8b949e" font-size="12" text-anchor="start">llvm-cov&#160;functions</text>
+<text x="330" y="182" fill="#3fb950" font-size="12" text-anchor="start">100.00%&#160;&#160;(103&#160;/&#160;103)</text>
+<text x="40" y="212" fill="#8b949e" font-size="12" text-anchor="start">llvm-cov&#160;lines</text>
+<text x="330" y="212" fill="#3fb950" font-size="12" text-anchor="start">100.00%&#160;&#160;(393&#160;/&#160;393)</text>
+<text x="40" y="242" fill="#8b949e" font-size="12" text-anchor="start">library&#160;files&#160;at&#160;100%</text>
+<text x="330" y="242" fill="#3fb950" font-size="12" text-anchor="start">12&#160;of&#160;12</text>
+<text x="40" y="272" fill="#8b949e" font-size="12" text-anchor="start">swiftlint&#160;--strict</text>
+<text x="330" y="272" fill="#3fb950" font-size="12" text-anchor="start">0&#160;violations&#160;in&#160;16&#160;files&#160;&#160;(0.63.2)</text>
+<text x="40" y="302" fill="#8b949e" font-size="12" text-anchor="start">demo</text>
+<text x="330" y="302" fill="#3fb950" font-size="12" text-anchor="start">swift&#160;run&#160;ExactAssociationDemo,&#160;real&#160;captured&#160;output</text>
+</g>
+</svg>

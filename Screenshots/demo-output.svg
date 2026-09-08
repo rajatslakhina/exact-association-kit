@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="651" viewBox="0 0 900 651">
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="8" refY="3" orient="auto">
+<path d="M0,0 L0,6 L8,3 z" fill="#8b949e"/></marker></defs>
+<rect width="900" height="651" fill="#0d1117"/>
+<g font-family="SF Mono,Menlo,monospace">
+<text x="18" y="26" fill="#3fb950" font-size="12" text-anchor="start" font-weight="bold">swift&#160;run&#160;ExactAssociationDemo&#160;&#160;(real&#160;output,&#160;abridged)</text>
+<text x="18" y="48" fill="#79c0ff" font-size="11" text-anchor="start">1.&#160;One&#160;block,&#160;three&#160;intervals</text>
+<text x="18" y="63" fill="#8b949e" font-size="11" text-anchor="start">--------------------------------------------------------------------------</text>
+<text x="18" y="78" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;block&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[4,&#160;1;&#160;1,&#160;6]</text>
+<text x="18" y="93" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;empty&#160;cells&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;false</text>
+<text x="18" y="108" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;tables&#160;the&#160;margins&#160;allow&#160;&#160;6</text>
+<text x="18" y="123" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;sample&#160;odds&#160;ratio&#160;ad/bc&#160;&#160;&#160;24.0000</text>
+<text x="18" y="138" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;conditional&#160;MLE&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;15.9949</text>
+<text x="18" y="153" fill="#3fb950" font-size="11" text-anchor="start">&#160;&#160;Woolf&#160;95%,&#160;raw&#160;counts&#160;&#160;&#160;&#160;&#160;[1.1402,&#160;505.1936]&#160;&#160;clears&#160;1&#160;(distinguishable)</text>
+<text x="18" y="168" fill="#3fb950" font-size="11" text-anchor="start">&#160;&#160;mid-p&#160;95%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[1.0353,&#160;677.1250]&#160;&#160;clears&#160;1&#160;(distinguishable)</text>
+<text x="18" y="183" fill="#f0883e" font-size="11" text-anchor="start">&#160;&#160;exact&#160;95%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[0.7474,&#160;1370.9811]&#160;&#160;covers&#160;1&#160;(not&#160;distinguishable)</text>
+<text x="18" y="198" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;Fisher&#160;two-sided&#160;p&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.071970</text>
+<text x="18" y="213" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;mid-p&#160;two-sided&#160;p&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.049874</text>
+<text x="18" y="228" fill="#e6edf3" font-size="11" text-anchor="start"></text>
+<text x="18" y="243" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;Nothing&#160;is&#160;wrong&#160;with&#160;this&#160;block.&#160;It&#160;has&#160;no&#160;empty&#160;cell,&#160;so&#160;no&#160;correction&#160;was</text>
+<text x="18" y="258" fill="#e6edf3" font-size="11" text-anchor="start"></text>
+<text x="18" y="273" fill="#79c0ff" font-size="11" text-anchor="start">4.&#160;The&#160;corpus&#160;this&#160;ecosystem&#160;publishes&#160;coefficients&#160;over</text>
+<text x="18" y="288" fill="#8b949e" font-size="11" text-anchor="start">--------------------------------------------------------------------------</text>
+<text x="18" y="303" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;items&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;96</text>
+<text x="18" y="318" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;blocks&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4</text>
+<text x="18" y="333" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;readable&#160;at&#160;all&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1</text>
+<text x="18" y="348" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;margins&#160;allow&#160;one&#160;table&#160;&#160;&#160;3</text>
+<text x="18" y="363" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;pinned&#160;block&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(0,&#160;1)</text>
+<text x="18" y="378" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;pinned&#160;block&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(1,&#160;0)</text>
+<text x="18" y="393" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;pinned&#160;block&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(1,&#160;1)</text>
+<text x="18" y="408" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;block&#160;(0,&#160;0)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[0.3574,&#160;2.7979]</text>
+<text x="18" y="423" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;&#160;&#160;conditional&#160;MLE&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.0000</text>
+<text x="18" y="438" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;&#160;&#160;&#160;&#160;Fisher&#160;two-sided&#160;p&#160;&#160;&#160;&#160;1.000000</text>
+<text x="18" y="453" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;distinguishable&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0&#160;of&#160;4</text>
+<text x="18" y="468" fill="#e6edf3" font-size="11" text-anchor="start"></text>
+<text x="18" y="483" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;Three&#160;of&#160;these&#160;four&#160;blocks&#160;do&#160;not&#160;have&#160;an&#160;odds&#160;ratio&#160;that&#160;is&#160;small,&#160;or&#160;large,</text>
+<text x="18" y="498" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;or&#160;uncertain.&#160;Their&#160;margins&#160;allow&#160;exactly&#160;one&#160;table,&#160;so&#160;there&#160;is&#160;nothing&#160;to</text>
+<text x="18" y="513" fill="#e6edf3" font-size="11" text-anchor="start"></text>
+<text x="18" y="528" fill="#79c0ff" font-size="11" text-anchor="start">5.&#160;When&#160;the&#160;test&#160;and&#160;the&#160;interval&#160;disagree</text>
+<text x="18" y="543" fill="#8b949e" font-size="11" text-anchor="start">--------------------------------------------------------------------------</text>
+<text x="18" y="558" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;block&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[2,&#160;0;&#160;0,&#160;5]</text>
+<text x="18" y="573" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;Fisher&#160;two-sided&#160;p&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.047619</text>
+<text x="18" y="588" fill="#e6edf3" font-size="11" text-anchor="start">&#160;&#160;rejects&#160;at&#160;5%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;true</text>
+<text x="18" y="603" fill="#f0883e" font-size="11" text-anchor="start">&#160;&#160;exact&#160;95%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[0.6506,&#160;inf]&#160;&#160;covers&#160;1&#160;(not&#160;distinguishable)</text>
+<text x="18" y="618" fill="#3fb950" font-size="11" text-anchor="start">&#160;&#160;mid-p&#160;95%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[1.0349,&#160;inf]&#160;&#160;clears&#160;1&#160;(distinguishable)</text>
+</g>
+</svg>

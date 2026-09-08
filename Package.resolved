@@ -1,0 +1,33 @@
+{
+  "originHash" : "27dc8f807aea848da4e5c47997fe9eeb429e951e4dc4f79e03e384c7c7983c52",
+  "pins" : [
+    {
+      "identity" : "association-fit-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/association-fit-kit.git",
+      "state" : {
+        "revision" : "fee2382b8254022176e4f33aa95ba2276813a8a7",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "association-transport-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/association-transport-kit.git",
+      "state" : {
+        "revision" : "42564049b65f067c698cf80d50226d77e62225ae",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "square-design-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/square-design-kit.git",
+      "state" : {
+        "revision" : "e86507bbe73ffe21e12e636336f8e521929dba99",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
